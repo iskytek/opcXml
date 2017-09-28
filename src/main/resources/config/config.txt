@@ -1,0 +1,11 @@
+DB:
+localhost
+1433
+sa
+yangfan
+anqingcollect
+
+OPCServer:
+localhost
+Matrikon.OPC.Simulation.1
+15

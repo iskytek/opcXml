@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<points>
+    <point>
+        <pointName>Read Error.zhigong2xiyifang</pointName>
+        <tableName>value_opc</tableName>
+        <idColumn>typeserial</idColumn>
+        <id>shamozhou</id>
+        <valueColumn>liuliang</valueColumn>
+    </point>
+</points>
